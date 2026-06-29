@@ -1,8 +1,8 @@
-streamlit
-yfinance
-pandas-ta
-apscheduler
-python-telegram-bot
-pytz
-pandas
-numpy
+streamlit==1.46.1
+yfinance==0.2.65
+pandas==2.3.1
+numpy==2.3.2
+apscheduler==3.11.0
+python-telegram-bot==22.3
+pytz==2025.2
+pandas-ta==0.4.71b0
