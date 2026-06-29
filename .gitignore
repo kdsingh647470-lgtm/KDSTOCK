@@ -1,0 +1,5 @@
+venv/ 
+scanner_hits.db 
+__pycache__/ 
+*.pyc 
+.env 
